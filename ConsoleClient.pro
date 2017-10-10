@@ -6,3 +6,4 @@ QT += network
 LIBS += -lbbdata -lbb
 
 include(config.pri)
+https://github.com/dannyd33/ConsoleClient/blob/master/src/Console.hi
